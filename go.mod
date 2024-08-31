@@ -1,4 +1,4 @@
-module github.com/newcrd/api
+module github.com/haowenj/newcrd-api
 
 go 1.22.5
 
